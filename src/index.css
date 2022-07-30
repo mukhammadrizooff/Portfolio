@@ -38,8 +38,8 @@ body {
     background: var(--color-bg);
     color: var(--color-white);
     line-height: 1.7; 
-    background: linear-gradient(rgb(5, 21, 35), transparent);
-    /* background-image: url(../src/assets/bg.jpg); */
+    /* background: linear-gradient(rgb(5, 21, 35), transparent); */
+    background-image: url(../src/assets/abstract-bg.jpg);
 }
 
 /* ================== GENERAL STYLES ================== */
