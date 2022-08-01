@@ -23,7 +23,7 @@
   .contact__option:hover {
     background: transparent;
     border-color: var(--color-primary-variant);
-    /* backdrop-filter: blur(15px); */
+    backdrop-filter: blur(15px);
   }
   
   .contact__option-icon {
@@ -51,7 +51,7 @@
     padding: 1.5rem;
     border-radius: 0.5rem;
     background: transparent;
-    border: 2px solid var(--primary-color-variant);
+    border: 2px solid var(--color-primary-variant);
     resize: none;
     color: var(--color-white);
   }
