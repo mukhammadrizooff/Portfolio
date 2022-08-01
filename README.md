@@ -34,7 +34,7 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Muhammad Rizo**
 
-- GitHub: [@shoirata](https://github.com/mukhammadrizooff)
+- GitHub: [@mukhammadrizooff](https://github.com/mukhammadrizooff)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/mukhammadrizooff/)
 
 
