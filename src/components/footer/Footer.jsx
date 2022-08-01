@@ -9,7 +9,7 @@ import './footer.css';
 const Footer = () => (
   <footer>
     <a className="footer__logo" href="#home">
-      Muhammadrizo
+      Muhammad Rizo
     </a>
     <ul className="permalinks">
       <li>
@@ -37,28 +37,28 @@ const Footer = () => (
 
     <div className="footer__socials">
       <a
-        href="#"
+        href="https://www.linkedin.com/in/mukhammadrizooff/"
         target="_blank"
         rel="noreferrer"
       >
         <BsLinkedin />
       </a>
       <a
-        href="#"
+        href="https://angel.co/u/mukhammadrizooff"
         target="_blank"
         rel="noreferrer"
       >
         <FaAngellist />
       </a>
       <a
-        href="#"
+        href="https://github.com/mukhammadrizooff"
         target="_blank"
         rel="noreferrer"
       >
         <BsGithub />
       </a>
       <a
-        href="#"
+        href="https://www.instagram.com/mukhammadrizooff/"
         target="_blank"
         rel="noreferrer"
       >
