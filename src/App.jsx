@@ -1,13 +1,18 @@
-import React from 'react'
-import Header from './components/header/Header'
-import Nav from './components/nav/Nav'
-import About from './components/about/About'
-import Experience from './components/experience/Experience'
-import Services from './components/services/Services'
-import Portfolio from './components/portfolio/Portfolio'
-import Recomendations from './components/recomendations/Recomendations'
-import Conatct from './components/contact/Conatct'
-import Footer from './components/footer/Footer'
+/* eslint-disable linebreak-style */
+/* eslint-disable arrow-body-style */
+/* eslint-disable linebreak-style */
+/* eslint-disable react/jsx-indent */
+/* eslint-disable linebreak-style */
+import React from 'react';
+import Header from './components/header/Header';
+import Nav from './components/nav/Nav';
+import About from './components/about/About';
+import Experience from './components/experience/Experience';
+import Services from './components/services/Services';
+import Portfolio from './components/portfolio/Portfolio';
+import Recomendations from './components/recomendations/Recomendations';
+import Conatct from './components/contact/Conatct';
+import Footer from './components/footer/Footer';
 
 const App = () => {
   return (
@@ -22,7 +27,7 @@ const App = () => {
         <Conatct />
         <Footer />
     </>
-  )
-}
+  );
+};
 
-export default App
+export default App;
