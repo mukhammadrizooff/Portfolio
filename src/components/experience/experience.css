@@ -14,8 +14,10 @@
   
   .experience__container > div:hover {
     background: transparent;
+    font-weight: 500;
     border-color: var(--color-primary-variant);
     cursor: default;
+    backdrop-filter: blur(15px);
   }
   
   .experience__container > div h3 {

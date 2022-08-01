@@ -36,18 +36,13 @@ const About = () => (
         </div>
 
         <p>
-            Hello everyone, my name is Muhammad Rizo, I have a goal
-            contribute to a large-scale project
-            used globally one day.
-
-            I want to work for your company because
-            good mission and good of the company
-            improves my work environment
-            productivity.
+        Hello I am <b>Muhammad Rizo</b> and I experienced software engineer who constantly seeks out innovative solutions to everyday problems. 
+        In my eighteen months in this industry, I've honed my analytical thinking and collaboration skills, and I love working with a team. 
+        I've also had the opportunity to serve as the software engineer lead for three projects with First Technology.
         </p>
 
         <a href="#contact" className="btn btn-primary">
-          Let&lsquo;s talk
+          Let&lsquo;s Talk
         </a>
       </div>
     </div>
