@@ -4,9 +4,10 @@
 
 > This is my personal portfolio page that I built on React.js
 
-mobile  | desktop
+Mobile Version | Desktop Version
 ------------- | -------------
- |
+![mobile](https://user-images.githubusercontent.com/63915024/182242924-564e5115-f086-4c18-99fe-3b3c0a4b3e44.png) | ![mobile (1)](https://user-images.githubusercontent.com/63915024/182242958-e09250ab-2d48-42d3-869c-b08ff7ca59ab.png)
+
 
 
 ## Built With
