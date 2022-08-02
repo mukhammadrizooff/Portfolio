@@ -1,3 +1,4 @@
+/* eslint linebreak-style:["error","windows"] */
 import React from 'react';
 import { Pagination } from 'swiper';
 import { Swiper, SwiperSlide } from 'swiper/react';
@@ -51,11 +52,11 @@ const Recomendations = () => (
       {testimonials.map((reviewer) => (
         <SwiperSlide className="testimonial" key={reviewer.id}>
           <a href={reviewer.link_user}>
-          <div className="client__avatar">
-            <img src={reviewer.avatar} alt="client profile" />
-          </div>
-          <h5 className="client__name">{reviewer.name}</h5>
-          <small className="client__review">{reviewer.review}</small>
+            <div className="client__avatar">
+              <img src={reviewer.avatar} alt="client profile" />
+            </div>
+            <h5 className="client__name">{reviewer.name}</h5>
+            <small className="client__review">{reviewer.review}</small>
           </a>
         </SwiperSlide>
       ))}

@@ -1,3 +1,4 @@
+/* eslint linebreak-style:["error","windows"] */
 import ReactGA from 'react-ga';
 
 const AnalyticsEventTracker = (category = 'Portfolio') => {

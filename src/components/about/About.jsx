@@ -1,3 +1,4 @@
+/* eslint linebreak-style:["error","windows"] */
 /* eslint-disable jsx-a11y/img-redundant-alt */
 import React from 'react';
 import { FaAward, FaUsers, FaFolderOpen } from 'react-icons/fa';
@@ -36,9 +37,13 @@ const About = () => (
         </div>
 
         <p>
-        Hello I am <b>Muhammad Rizo</b> and I experienced software engineer who constantly seeks out innovative solutions to everyday problems. 
-        In my eighteen months in this industry, I've honed my analytical thinking and collaboration skills, and I love working with a team. 
-        I've also had the opportunity to serve as the software engineer lead for three projects with First Technology.
+          Hello I am Muhammad Rizo and I experienced software engineer
+          who constantly seeks out innovative solutions to everyday problems.
+          In my eighteen months in this industry,
+          I have honed my analytical thinking and collaboration skills,
+          and I love working with a team.
+          I&apos;ve also had the opportunity to serve as the software engineer
+          lead for three projects with First Technology.
         </p>
 
         <a href="#contact" className="btn btn-primary">

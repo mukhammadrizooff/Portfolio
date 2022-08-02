@@ -1,3 +1,4 @@
+/* eslint linebreak-style:["error","windows"] */
 import React from 'react';
 import { BiCheck } from 'react-icons/bi';
 import './services.css';
@@ -5,7 +6,7 @@ import './services.css';
 function Services() {
   return (
     <section id="services">
-      <h5 className=''>What I Offer</h5>
+      <h5>What I Offer</h5>
       <h2>Services</h2>
       <div className="container services__container">
         <article className="service">

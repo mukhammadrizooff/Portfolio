@@ -23,5 +23,10 @@
     "ignorePatterns": [
       "dist/",
       "build/"
-    ]
+    ],
+    "overrides": [
+      {
+        "files": ["*.jsx", "*.js"]
+      }
+    ]  
   }
