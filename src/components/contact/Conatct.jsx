@@ -30,7 +30,7 @@ const Conatct = () => (
         </article>
       </div>
       {/* END OF CONTACT OPTIONS */}
-      <form action="https://formspree.io/f/xjvlbplk" method="POST">
+      <form action="https://formsubmit.co/mukhammadrizoabdunazarov@gmail.com" method="POST">
         <input type="text" name="name" placeholder="Your Full Name" required />
         <input type="email" name="email" placeholder="Your Email" required />
         <textarea type="message" rows="7" placeholder="Your Message" required />
