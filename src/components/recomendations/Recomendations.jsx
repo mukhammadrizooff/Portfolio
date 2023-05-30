@@ -1,6 +1,6 @@
 /* eslint linebreak-style:["error","windows"] */
 import React from 'react';
-import { Pagination } from 'swiper';
+import { Pagination, Autoplay } from 'swiper';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import client1 from '../../assets/sumair.jpeg';
 import client2 from '../../assets/david.jpeg';
@@ -44,10 +44,14 @@ const Recomendations = () => (
     <h2>Recomendations</h2>
     <Swiper
       className="container testimonials__container"
-      modules={[Pagination]}
+      modules={[Pagination, Autoplay]}
       spaceBetween={40}
       slidesPerView={1}
       pagination={{ clickable: true }}
+      autoplay={{
+        delay: 2500,
+        disableOnInteraction: false,
+      }}
     >
       {testimonials.map((reviewer) => (
         <SwiperSlide className="testimonial" key={reviewer.id}>
