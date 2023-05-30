@@ -1,4 +1,3 @@
-/* eslint linebreak-style:["error","windows"] */
 import React from 'react';
 import './contact.css';
 import { MdOutlineEmail } from 'react-icons/md';

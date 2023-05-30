@@ -1,4 +1,3 @@
-/* eslint linebreak-style:["error","windows"] */
 import React from 'react';
 import './header.css';
 import CTA from './CTA';

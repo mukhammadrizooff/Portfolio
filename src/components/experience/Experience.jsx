@@ -1,4 +1,3 @@
-/* eslint linebreak-style:["error","windows"] */
 import React from 'react';
 import { BsPatchCheckFill } from 'react-icons/bs';
 import './experience.css';

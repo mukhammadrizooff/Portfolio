@@ -1,4 +1,3 @@
-/* eslint linebreak-style:["error","windows"] */
 /* eslint-disable jsx-a11y/anchor-is-valid */
 import { React, useState } from 'react';
 import './nav.css';

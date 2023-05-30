@@ -1,4 +1,3 @@
-/* eslint linebreak-style:["error","windows"] */
 import React from 'react';
 import { BiCheck } from 'react-icons/bi';
 import './services.css';

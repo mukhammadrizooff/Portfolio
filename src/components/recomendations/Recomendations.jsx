@@ -1,4 +1,3 @@
-/* eslint linebreak-style:["error","windows"] */
 import React from 'react';
 import { Pagination, Autoplay } from 'swiper';
 import { Swiper, SwiperSlide } from 'swiper/react';
