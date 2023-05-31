@@ -1,4 +1,3 @@
-/* eslint linebreak-style:["error","windows"] */
 import React from 'react';
 import AnalyticsEventTracker from '../eventsTracker/AnalyticsEventTracker';
 import './portfolio.css';
@@ -60,7 +59,7 @@ const projectData = [
     image: ProjectImage6,
     title: 'Space Traveler`s Hub',
     github: 'https://github.com/mukhammadrizooff/Space-Travel-React',
-    description: 'Web application that allows users to book rockets, dragons, and join selected space missions using data from the SpaceX API.',
+    description: 'Web application that allows users to book rockets, dragons, and join selected space missions using data from the SpaceX API, we made a number of features with the help of cooperation with few contributors',
     demo: 'https://sumairq.github.io/',
   },
 ];

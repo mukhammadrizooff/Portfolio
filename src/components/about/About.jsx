@@ -1,9 +1,8 @@
-/* eslint linebreak-style:["error","windows"] */
 /* eslint-disable jsx-a11y/img-redundant-alt */
 import React from 'react';
 import { FaAward, FaUsers, FaFolderOpen } from 'react-icons/fa';
 import './about.css';
-import ME from '../../assets/user.jpg';
+import ME from '../../assets/02bg.png';
 
 const About = () => (
   <section id="about">
@@ -20,7 +19,7 @@ const About = () => (
           <article className="about__card">
             <FaAward className="about__icon" />
             <h5>Experience</h5>
-            <small>1+ years working</small>
+            <small>1.8+ years working</small>
           </article>
 
           <article className="about__card">
