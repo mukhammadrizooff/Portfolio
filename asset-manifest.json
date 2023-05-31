@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.814ae09b.css",
-    "main.js": "/Portfolio/static/js/main.9b0f616e.js",
+    "main.css": "/Portfolio/static/css/main.9deaea74.css",
+    "main.js": "/Portfolio/static/js/main.e4743a25.js",
+    "static/media/02bg.png": "/Portfolio/static/media/02bg.6c8ec0f69de2738f7ce8.png",
+    "static/media/01bg.png": "/Portfolio/static/media/01bg.d96501f32f62b4397d23.png",
     "static/media/hollyflx.png": "/Portfolio/static/media/hollyflx.3974cb1eb7bebc4b84bc.png",
     "static/media/leaderboard.png": "/Portfolio/static/media/leaderboard.3a362a0f7f8651869242.png",
-    "static/media/abstract-bg.jpg": "/Portfolio/static/media/abstract-bg.c20066cb7e9f9733aabb.jpg",
     "static/media/space.png": "/Portfolio/static/media/space.4bd9052ddcab6c8ce951.png",
-    "static/media/user.jpg": "/Portfolio/static/media/user.903b6dc85b8c83c83109.jpg",
     "static/media/CV.pdf": "/Portfolio/static/media/CV.0ef455db04c459822a93.pdf",
     "static/media/paymodus.png": "/Portfolio/static/media/paymodus.2c2eebd22ae0c74e8de9.png",
     "static/media/bookstore.png": "/Portfolio/static/media/bookstore.ecae5b85e38d087bc618.png",
@@ -14,11 +14,11 @@
     "static/media/mathma.png": "/Portfolio/static/media/mathma.e378d9c88c134ca0070d.png",
     "static/media/david.jpeg": "/Portfolio/static/media/david.aed3cdbcb447ff5fe000.jpeg",
     "index.html": "/Portfolio/index.html",
-    "main.814ae09b.css.map": "/Portfolio/static/css/main.814ae09b.css.map",
-    "main.9b0f616e.js.map": "/Portfolio/static/js/main.9b0f616e.js.map"
+    "main.9deaea74.css.map": "/Portfolio/static/css/main.9deaea74.css.map",
+    "main.e4743a25.js.map": "/Portfolio/static/js/main.e4743a25.js.map"
   },
   "entrypoints": [
-    "static/css/main.814ae09b.css",
-    "static/js/main.9b0f616e.js"
+    "static/css/main.9deaea74.css",
+    "static/js/main.e4743a25.js"
   ]
 }
