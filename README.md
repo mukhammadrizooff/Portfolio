@@ -6,7 +6,7 @@
 
 Mobile Version | Desktop Version
 ------------- | -------------
-![mobile](https://user-images.githubusercontent.com/63915024/182242924-564e5115-f086-4c18-99fe-3b3c0a4b3e44.png) | ![mobile (1)](https://user-images.githubusercontent.com/63915024/182242958-e09250ab-2d48-42d3-869c-b08ff7ca59ab.png)
+![mobile](https://github.com/mukhammadrizooff/Portfolio/assets/63915024/c706729b-47a8-427a-bdf8-a0946c9c9174) | ![mobile (1)](https://github.com/mukhammadrizooff/Portfolio/assets/63915024/d6fd5e90-b99d-4a25-958b-5e7d4a67fee6)
 
 
 
@@ -19,7 +19,7 @@ Mobile Version | Desktop Version
 
 ## Live Demo
 
-[Live Demo Link]()
+[Live Demo Link](https://mukhammadrizooff.me/Portfolio/)
 
 ## Getting Started
 
