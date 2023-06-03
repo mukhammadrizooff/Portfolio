@@ -28,7 +28,7 @@ To get a local copy up and running follow these simple example steps.
 - go to the directory that you want to clone the repository in.
 - right click and choose Git Bash here.
 - type `https://github.com/mukhammadrizooff/Portfolio.git`.
-- run "npm install" and then "npm start",
+- run "npm install" and then "npm start"
 
 ## Author
 
