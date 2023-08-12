@@ -2,7 +2,7 @@
 
 # My portfolio
 
-> This is my personal portfolio page that I built on React.js,
+> This is my personal portfolio page that I built on React.js
 
 Mobile Version | Desktop Version
 ------------- | -------------
