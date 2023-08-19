@@ -2,7 +2,7 @@
 
 # My portfolio
 
-> This is my personal portfolio page that I built on React.js.
+> This is my personal portfolio page that I built on React.js
 
 Mobile Version | Desktop Version
 ------------- | -------------
@@ -23,7 +23,7 @@ Mobile Version | Desktop Version
 
 ## Getting Started.
 
-To get a local copy up and running follow these simple example steps
+To get a local copy up and running follow these simple example steps.
 
 - go to the directory that you want to clone the repository in
 - right click and choose Git Bash here
