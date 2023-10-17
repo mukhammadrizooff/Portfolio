@@ -19,7 +19,7 @@ Mobile Version | Desktop Version
 
 ## Live Demo
 
-[Live Demo Link](https://mukhammadrizooff.me/Portfolio/)
+[Live Demo Link](https://mukhammadrizooff.netlify.app/)
 
 ## Getting Started.
 
