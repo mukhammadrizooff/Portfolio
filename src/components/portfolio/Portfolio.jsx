@@ -12,28 +12,28 @@ const projectData = [
   {
     id: 1,
     image: ProjectImage1,
-    title: 'Bookstore CMS',
-    description: 'It is an app that allows you to display a list of added books, add new book and remove a book',
+    title: 'Yaqeen Group',
+    description: 'An Api based application which adds, I founded this project under the auspices of Orient Gold INC and it is the concept of an online real estate trading platform.',
     github: 'https://github.com/mukhammadrizooff/Bookstore',
-    demo: 'https://mukhammadrizooff.github.io/Bookstore/',
+    demo: 'https://yaqeen.uz/',
   },
 
   {
     id: 2,
     image: ProjectImage2,
-    title: 'Leaderboard',
-    description: 'An Api based application which adds and retrieves the scores from the leaderboard API',
-    github: 'https://github.com/mukhammadrizooff/Leaderboard',
-    demo: 'https://mukhammadrizooff.github.io/Leaderboard/dist/',
+    title: 'Baraket travel',
+    description: 'This project was built by a travel agency to Mecca and Medina at their own discretion and on my advice.',
+    github: 'https://github.com/rahmiddinasiydinov/Baraket-Travel',
+    demo: 'https://baraket-travel.uz/uz/',
   },
 
   {
     id: 3,
     image: ProjectImage3,
-    title: 'Math Magicians',
-    description: 'This project is a simple calculator web application, using JavaScript and React. It consists of three pages, homepage, calculator and quote.',
-    github: 'https://github.com/mukhammadrizooff/Math-Magicians',
-    demo: 'https://mukhammadrizooff.github.io/Math-Magicians/',
+    title: 'Humo E-market',
+    description: 'I built Humo e-commerce as a practice based on the accumulated knowledge and potential.',
+    github: 'https://github.com/mukhammadrizooff/E-Commerce-React',
+    demo: 'https://dev--mukhammadrizooff-humo-shop.netlify.app',
   },
 
   {
