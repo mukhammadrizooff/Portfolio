@@ -14,7 +14,7 @@ const projectData = [
     image: ProjectImage1,
     title: 'Yaqeen Group',
     description: 'An Api based application which adds, I founded this project under the auspices of Orient Gold INC and it is the concept of an online real estate trading platform.',
-    github: 'https://github.com/mukhammadrizooff/Bookstore',
+    github: 'https://github.com/mukhammadrizooff/yaqeen',
     demo: 'https://yaqeen.uz/',
   },
 
